@@ -1,0 +1,26 @@
+
+/* 自定义 element-plus 主题 */
+@forward 'element-plus/theme-chalk/src/common/var.scss' with (
+  $colors: (
+    'white': #ffffff,
+    'black': #000000,
+    // 'primary': (
+    //   'base': #69642c,
+    // ),
+    // 'success': (
+    //   'base': #0e4600,
+    // ),
+    // 'warning': (
+    //   'base': #e7c79f,
+    // ),
+    // 'danger': (
+    //   'base': #fd0000,
+    // ),
+    // 'error': (
+    //   'base': #440303,
+    // ),
+    // 'info': (
+    //   'base': #3aa176,
+    // )
+  ),
+);
